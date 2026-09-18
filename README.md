@@ -15,18 +15,3 @@ Requirements
     requests
     beautifulsoup4
 
-Installation
-
-git clone https://github.com/AmirRedox2008/wikipedia-reader.gitcd wikipedia-readerpip install -r requirements.txt
-
-Usage
-
-python main.py
-
-Then type any topic to read its Wikipedia article:
-
-Search something (q to exit): artificial intelligence
-
-License
-
-MIT
