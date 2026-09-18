@@ -17,25 +17,16 @@ Requirements
 
 Installation
 
-git clone https://github.com/USERNAME/wikipedia-reader.gitcd wikipedia-readerpip install -r requirements.txt
+git clone https://github.com/AmirRedox2008/wikipedia-reader.gitcd wikipedia-readerpip install -r requirements.txt
 
 Usage
-bash
- 
-  
- 
- 
+
 python main.py
- 
- 
 
 Then type any topic to read its Wikipedia article:
-text
- 
-  
- 
- 
-Search something (q to exit): artificial intelligence
- 
- 
 
+Search something (q to exit): artificial intelligence
+
+License
+
+MIT
